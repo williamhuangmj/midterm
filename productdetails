@@ -1,74 +1,74 @@
 [
   {
     "id": 1,
-    "title": “Glasses”,
-    “description”: "Anti-Fog Wide-Vision Safety Goggle",
-    “price”: 40
+    "title": "Glasses",
+    "description": "Anti-Fog Wide-Vision Safety Goggle",
+    "price": "40"
   },
   {
     "id": 2,
-    "title": “Gloves”,
-    “description”: "Fully textured finish provides excellent grip",
-    “price”: 30
+    "title": "Gloves",
+    "description": "Fully textured finish provides excellent grip",
+    "price": "30"
   },
   {
     "id": 3,
-    "title": “Hotpot_soup”,
-    “description”: "two packs each buy",
-    “price”: 20
+    "title": "Hotpot_soup",
+    "description": "two packs each buy",
+    "price": "20"
   },
   {
     "id": 4,
-    "title": “Hotpot_tool”,
-    “description”: "Total length 8.5 inches, spoon round width 2.87 inches",
-    “price”: 50
+    "title": "Hotpot_tool",
+    "description": "Total length 8.5 inches, spoon round width 2.87 inches",
+    "price": "50"
   },
   {
     "id": 5,
-    "title": “Hotpot”,
-    “description”: "Faster heating with larger power",
-    “price”: 60
+    "title": "Hotpot",
+    "description": "Faster heating with larger power",
+    "price": "60"
   },
   {
     "id": 6,
-    "title": “Incense_base”,
-    “description”: "Exquisite workmanship",
-    “price”: 25
+    "title": "Incense_base",
+    "description": "Exquisite workmanship",
+    "price": "25"
   },
   {
     "id": 7,
-    "title": “Incense”,
-    “description”: "25 gram each, 12 cents",
-    “price”: 70
+    "title": "Incense",
+    "description": "25 gram each, 12 cents",
+    "price": "70"
   },
   {
     "id": 8,
-    "title": “Lamp”,
-    “description”: "The perfect solution for illumination around the urban inspired sectional",
-    “price”: 150
+    "title": "Lamp",
+    "description": "The perfect solution for illumination around the urban inspired sectional",
+    "price": "150"
   },
   {
     "id": 9,
-    "title": “Mask”,
-    “description”: "Disposable face masks to protect against dust fluids germs and weather",
-    “price”: 45
+    "title": "Mask",
+    "description": "Disposable face masks to protect against dust fluids germs and weather",
+    "price": "45"
   },
   {
     "id": 10,
-    "title": “Pot”,
-    “description”: "Make a bold statement in every kitchen, yet practical - nonstick, lightweight",
-    “price”: 100
+    "title": "Pot",
+    "description": "Make a bold statement in every kitchen, yet practical - nonstick, lightweight",
+    "price": "100"
   },
   {
     "id": 11,
-    "title": “Rice Cooker”,
-    “description”: "Multifunctional use and nutritious and delicious",
-    “price”: 200
+    "title": "Rice Cooker",
+    "description": "Multifunctional use and nutritious and delicious",
+    "price": "220"
   },
   {
     "id": 12,
-    "title": “Rice”,
-    “description”: "HEIRLOOM, HEALTHY, TRADITIONAL, DELICIOUS",
-    “price”: 99
+    "title": "Rice",
+    "description": "HEIRLOOM, HEALTHY, TRADITIONAL, DELICIOUS",
+    "price": "99"
   }
  ]
